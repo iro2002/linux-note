@@ -29,7 +29,7 @@
 ### **User & Application-Specific Directories**
 | Directory | Description |
 |-----------|-------------|
-| `/home` | Default location for user home directories. |
+| `/home` | Personal directories for each user. (/home/irosh) |
 | `/opt` | Used for installing optional third-party software.(e.g., custom apps) |
 | `/srv` | Holds data for services like web servers (rarely used in containers)(web or FTP servers). |
 | `/root` | Home directory for the root user. |
