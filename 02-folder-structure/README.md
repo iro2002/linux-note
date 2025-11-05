@@ -1,5 +1,14 @@
 # Understanding the Folder Structure
 
+| File System            | Description                                           |
+| ---------------------- | ----------------------------------------------------- |
+| **ext2 / ext3 / ext4** | Common Linux file systems (ext4 is most widely used). |
+| **XFS**                | High-performance file system for large files.         |
+| **Btrfs**              | Advanced features like snapshots and checksums.       |
+| **tmpfs**              | Temporary memory-based file system.                   |
+| **vfat / ntfs**        | Used for Windows partitions or USB drives.            |
+
+
 ### Explanation of System Directories
 
 ### **Symbolic Links (Less Significant)**
