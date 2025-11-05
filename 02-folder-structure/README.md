@@ -23,7 +23,7 @@
 |-----------|-------------|
 | `/boot` | Stores files needed for booting the system (not relevant in containers). |
 | `/usr` | Contains most user-installed applications and libraries. |
-| `/var` | Stores logs, caches, and temporary files that change frequently. |
+| `/var` | Variable data files(Stores logs, caches, and temporary files that change frequently) |
 | `/etc` | Stores system configuration files. |
 
 ### **User & Application-Specific Directories**
