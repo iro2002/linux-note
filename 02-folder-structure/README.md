@@ -21,8 +21,8 @@
 | Directory | Description |
 |-----------|-------------|
 | `/home` | Default location for user home directories. |
-| `/opt` | Used for installing optional third-party software. |
-| `/srv` | Holds data for services like web servers (rarely used in containers). |
+| `/opt` | Used for installing optional third-party software.(e.g., custom apps) |
+| `/srv` | Holds data for services like web servers (rarely used in containers)(web or FTP servers). |
 | `/root` | Home directory for the root user. |
 
 ### **Temporary & Volatile Directories**
