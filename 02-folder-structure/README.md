@@ -38,7 +38,7 @@
 | Directory | Description |
 |-----------|-------------|
 | `/tmp` | Temporary files (cleared on reboot). |
-| `/run` | Holds runtime data for processes. |
+| `/run` | Stores runtime information (like process IDs). |
 | `/proc` | Virtual filesystem for process and system information. |
 | `/sys` | Virtual filesystem for hardware and kernel information. |
 | `/dev` | Contains device files (e.g., `/dev/null`, `/dev/sda`). |
