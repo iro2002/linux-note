@@ -6,7 +6,7 @@
 | Directory | Description |
 |-----------|-------------|
 | `/sbin -> /usr/sbin` | System binaries for administrative commands (linked to `/usr/sbin`). |
-| `/bin -> /usr/bin` | Essential user binaries (linked to `/usr/bin`). |
+| `/bin -> /usr/bin` | Essential user binaries (commands like ls, cp, mv, cat). |
 | `/lib -> /usr/lib` | Shared libraries and kernel modules (linked to `/usr/lib`). |
 
 ### **Important System Directories**
